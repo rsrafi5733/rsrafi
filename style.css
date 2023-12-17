@@ -1,0 +1,109 @@
+#header{
+    height:50px;
+    Background-color:yellow;
+}
+#logo{
+    font-size:40px;
+    color:red;
+    text-decoration:none;
+    padding-right:100px;
+    font-family:Impact;
+}
+.navigate{
+    font-size:20px;
+    color:black;
+    text-decoration:none;
+    padding-right:100px;
+    font-size:22px;
+}
+#contant{
+    height:400px;
+}
+#biriany{
+    height:100px;
+    width:100px;
+    background-color:gold;
+    display:inline-block;
+    padding:25px;
+    margin:25px;
+    border:2px solid gray;
+    text-align:center;
+    font-size:25px;
+    border-radius:10%;
+    text-decoration:none;
+}
+#desert{
+    height:100px;
+    width:100px;
+    background-color:orange;
+    display:inline-block;
+    margin:25px;
+    padding:25px;
+    border:2px solid gray;
+    font-size:25px;
+    border-radius:10%;
+}
+#drinks{
+    height:100px;
+    width:100px;
+    background-color:cornflowerblue;
+    display:inline-block;
+    margin:25px;
+    padding:25px;
+    border:2px solid gray;
+    font-size:25px;
+    border-radius:10%;
+}
+#Ramadandish{
+    height:100px;
+    width:100px;
+    background-color:lawngreen;
+    display:inline-block;
+    margin:25px;
+    padding:25px;
+    border:2px solid gray;
+    font-size:25px;
+    border-radius:10%;
+}
+#Breakfast{
+    height:100px;
+    width:100px;
+    background-color:deeppink;
+    display:inline-block;
+    margin:25px;
+    padding:25px;
+    border:2px solid gray;
+    text-align:center;
+    font-size:25px;
+    border-radius:10%;
+}
+#Tobacco{
+    height:100px;
+    width:100px;
+    background-color:rgb(39, 86, 224);
+    display:inline-block;
+    margin:25px;
+    padding:25px;
+    border:2px solid gray;
+    text-align:center;
+    text-transform:capitalize;
+    font-size:25px;
+    border-radius:10%;
+}
+.author{
+    display:inline-block;
+    padding-right:200px;
+    margin:10px;
+    color:white;
+}
+footer{
+    background-color:black;
+}
+.contact{
+    text-decoration:none;
+}
+.removeline{
+    text-decoration:none;
+    Color:black;
+}
+
